@@ -15,7 +15,7 @@
 # Dir.chdir "D:/Workspace/Learning/ruby-tutorial/8-files"
 # puts Dir.pwd
 
-Dir.delete("foo")
+# Dir.delete("foo")
 # Dir.delete("bar")
 
 # puts Dir.pwd
